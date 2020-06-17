@@ -1,0 +1,25 @@
+
+;
+java:S1172"(Remove this unused method parameter "s".(Ãââv
+[
+java:S2259"BA "NullPointerException" could be thrown; "temp" is nullable here.(¢Ïäıÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ã‹«ûÿÿÿÿ
+M
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+<
+java:S1172"(Remove this unused method parameter "s".(ˆĞ®‰
+L
+java:S3400"9Remove this method and declare a constant for this value.(¡ğ¬
+L
+java:S3400"9Remove this method and declare a constant for this value.(¡ğ¬
+A
+java:S1172"(Remove this unused method parameter "s".(ôÍá»üÿÿÿÿ
+A
+java:S1172"(Remove this unused method parameter "s".(­´®Æùÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(àûõ¤
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ
+L
+java:S3400"9Remove this method and declare a constant for this value.(¡ğ¬
+L
+java:S3400"9Remove this method and declare a constant for this value.(¡ğ¬
